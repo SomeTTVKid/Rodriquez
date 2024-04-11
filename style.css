@@ -1,0 +1,61 @@
+html {
+    background-color: rgb(0, 0, 0);
+}
+
+h1 {
+    color: greenyellow;
+    font-family: "Lugrasimo", cursive;
+    font-weight: 400;
+    font-style: normal;
+    text-align: center;
+}
+
+#reason1 {
+    color: greenyellow;
+    font-family: "Lugrasimo", cursive;
+    font-weight: 400;
+    font-style: normal;
+    text-align: center;
+}
+
+#reason2 {
+    color: greenyellow;
+    font-family: "Lugrasimo", cursive;
+    font-weight: 400;
+    font-style: normal;
+    }
+
+
+
+h2 {
+    color: greenyellow;
+    font-family: "Lugrasimo", cursive;
+    font-weight: 400;
+    font-style: normal;
+    text-align: center;
+}
+
+a {
+    display: block;
+    text-align: center;
+}
+
+#left {
+    height: 130px;
+    float: left;
+}
+
+#right {
+    float: right;
+    height: 130px;
+}
+
+#rod {
+    float: center;
+    height: 140px;
+    width: 100%;
+}
+
+#armory {
+    border: 5px solid red;
+}
